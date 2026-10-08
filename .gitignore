@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+data/*
+!data/.gitkeep
+models/*.pt
+models/*.onnx
+runs/
+outputs/
+.streamlit/secrets.toml
